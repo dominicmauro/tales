@@ -1,0 +1,36 @@
+baseURL = 'https://dominicmauro.github.io/tales'
+languageCode = 'en-us'
+title = 'Tales from the Reaches'
+theme = 'PaperMod'
+
+[params]
+env = 'production'
+title = "Tales from the Reaches"
+description = "Session notes for a westmarches campaign"
+author = "Dom"
+defaultTheme = 'auto'
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowWordCount = true
+UseHugoToc = true
+
+[params.homeInfoParams]
+Title = "Tales from the Reaches"
+Content = "Session notes"
+
+[[menu.main]]
+identifier = 'sessions'
+name = 'All Sessions'
+url = '/posts/'
+weight = 10
+
+[[menu.main]]
+identifier = 'tags'
+name = 'Tags'
+url = '/tags/'
+weight = 20
+
+[taxonomies]
+tag = 'tags'
+category = 'categories'
