@@ -14,6 +14,7 @@ ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowWordCount = true
 UseHugoToc = true
+custom_css = ["css/custom.css"]
 
 [params.homeInfoParams]
 Title = "Tales from the Reaches"

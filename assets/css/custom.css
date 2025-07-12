@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'JS Black';
+    src: url('/fonts/JBLACK.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/fonts/Montserrat-VariableFont_wght.woff2') format('woff2');
+    font-weight: 400 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/fonts/Montserrat-Italic-VariableFont_wght.woff2') format('woff2');
+    font-weight: 400 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Override Ananke's Tachyons classes */
+.sans-serif {
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif !important;
+}
+
+/* For headlines - Ananke might use .athelas or .serif */
+.athelas, .serif {
+    font-family: 'JS Black', athelas, georgia, serif !important;
+}
+
+/* Also target direct elements as backup */
+body {
+    font-family: 'Montserrat', system-ui, sans-serif;
+}
+
+h1 {
+    font-family: 'JS Black', system-ui, sans-serif;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', system-ui, sans-serif;
+    font-weight: 700;
+}
