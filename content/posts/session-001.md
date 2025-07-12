@@ -1,9 +1,7 @@
 +++
 date = '2025-07-01T15:51:40-04:00'
-title = 'Session 001: Trial of the Slime Lord'
+title = 'Episode 1: A Trial Most Slimy'
 +++
-
-*July 1, 2025*
 
 ## The Kidnapping
 

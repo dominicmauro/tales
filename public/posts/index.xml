@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tales from the Reaches</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Tales from the Reaches</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Jul 2025 18:14:16 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Episode 2: A Dissolve to Remember</title>
+      <link>http://localhost:1313/posts/session-002/</link>
+      <pubDate>Tue, 08 Jul 2025 18:14:16 -0400</pubDate>
+      <guid>http://localhost:1313/posts/session-002/</guid>
+      <description>&lt;h2 id=&#34;the-descent-continues&#34;&gt;The Descent Continues&lt;/h2&gt;&#xA;&lt;p&gt;Our brave band of would-be crawlers pressed deeper into the &lt;strong&gt;Trial of the Slime Lord&lt;/strong&gt;, their torches flickering against the oppressive darkness. The dungeon&amp;rsquo;s collector&amp;rsquo;s room yielded useful supplies—Denton claimed flint and steel along with a sturdy club, while Rogar secured some rope and Jirwyn found&amp;hellip; a button of questionable utility.&lt;/p&gt;&#xA;&lt;p&gt;In &lt;strong&gt;The Fetid Pool&lt;/strong&gt;, the heroes discovered their path blocked by fallen rocks. With grim determination, they began the backbreaking work of clearing the rubble. For 8 rounds they toiled, sweat mixing with the fetid air, only to have a sudden cave-in reset all their progress. Miraculously, no one was crushed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Episode 1: A Trial Most Slimy</title>
+      <link>http://localhost:1313/posts/session-001/</link>
+      <pubDate>Tue, 01 Jul 2025 15:51:40 -0400</pubDate>
+      <guid>http://localhost:1313/posts/session-001/</guid>
+      <description>&lt;h2 id=&#34;the-kidnapping&#34;&gt;The Kidnapping&lt;/h2&gt;&#xA;&lt;p&gt;The cultists of Mugdulblub struck without warning, dragging innocent villagers from their homes to face a deadly gauntlet designed to test their worthiness. Those who survive will be granted the Slime Lord’s boon—those who fail will feed the darkness below.&lt;/p&gt;&#xA;&lt;h2 id=&#34;into-the-depths&#34;&gt;Into the Depths&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;The Pit&lt;/strong&gt; served as both prison and starting point. The villagers found themselves unceremoniously tossed into the chamber where a single torch cast flickering shadows on slime-slick walls. Among the debris, they discovered a torn scrap of paper bearing the cryptic message: &lt;em&gt;”…told us that not all the slime is bad, and some can be eaten for…”&lt;/em&gt; Above them, ominous words carved into the southern archway proclaimed: &lt;strong&gt;“WELCOME TO DISSOLUTION. ESCAPE OR FEED RAKA OOKU.”&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

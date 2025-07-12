@@ -1,7 +1,7 @@
 baseURL = 'https://tales.fromthereach.es'
 languageCode = 'en-us'
 title = 'Tales from the Reaches'
-theme = 'PaperMod'
+theme = 'ananke'
 
 [params]
 env = 'production'
@@ -34,3 +34,4 @@ weight = 20
 [taxonomies]
 tag = 'tags'
 category = 'categories'
+

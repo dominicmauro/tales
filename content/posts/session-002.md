@@ -1,10 +1,7 @@
 +++
 date = '2025-07-08T18:14:16-04:00'
-title = 'Session 2 Recap: Trial of the Slime Lord'
+title = 'Episode 2: A Dissolve to Remember'
 +++
-
-# Session 2 Recap: Trial of the Slime Lord
-*July 8, 2025*
 
 ## The Descent Continues
 
