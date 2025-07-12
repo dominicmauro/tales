@@ -1,6 +1,5 @@
 +++
 date = '2025-07-01T15:51:40-04:00'
-draft = true
 title = 'Session 001: Trial of the Slime Lord'
 +++
 
