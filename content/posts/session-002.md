@@ -1,6 +1,7 @@
 +++
 date = '2025-07-08T18:14:16-04:00'
 title = 'Episode 2: A Dissolve to Remember'
+toc = true
 +++
 
 ## The Descent Continues
