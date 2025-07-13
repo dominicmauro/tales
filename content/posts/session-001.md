@@ -1,6 +1,7 @@
 +++
 date = '2025-07-01T15:51:40-04:00'
 title = 'Episode 1: A Trial Most Slimy'
+toc = true
 +++
 
 ## The Kidnapping
