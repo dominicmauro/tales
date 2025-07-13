@@ -28,20 +28,20 @@
 }
 
 /* For headlines - Ananke might use .athelas or .serif */
-.athelas, .serif {
+.serif {
+    font-family: 'Montserrat', athelas, georgia, serif !important;
+}
+
+.athelas {
     font-family: 'JS Black', athelas, georgia, serif !important;
 }
 
-/* Also target direct elements as backup */
-body {
-    font-family: 'Montserrat', system-ui, sans-serif;
-}
-
 h1 {
-    font-family: 'JS Black', system-ui, sans-serif;
+    font-size: 4rem !important;
+    font-weight: 300;
+    font-style: normal;
 }
 
-h2, h3, h4, h5, h6 {
-    font-family: 'Montserrat', system-ui, sans-serif;
-    font-weight: 700;
+h2 {
+    font-family: 'Montserrat', athelas, georgia, serif !important;
 }
