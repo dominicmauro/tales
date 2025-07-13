@@ -29,7 +29,7 @@ From the shadows emerged **The Collector**, a disturbing halfling who had made t
 ## The Final Confrontation
 
 **Raka Ooku** appeared once more, and this time, the slaughter was horrific. The creature's rampage claimed:
-- Pico, who had just claimed a bastard sword with onyx
+- Pico, who had just claimed a bastard sword with an onyx gem in the pommel
 - Godfrey
 - Rogar, who had fought so bravely
 - Jasper
