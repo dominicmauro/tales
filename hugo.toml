@@ -1,6 +1,6 @@
 baseURL = 'https://tales.fromthereach.es'
 languageCode = 'en-us'
-title = 'Tales from the Reaches'
+title = ''
 theme = 'ananke'
 
 [params]
@@ -14,6 +14,10 @@ ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowWordCount = true
 UseHugoToc = true
+site_logo = "images/logo.webp"
+omit_header_text = true
+featured_image_class = "cover bg-bottom"
+
 
 [params.homeInfoParams]
 Title = "Tales from the Reaches"
