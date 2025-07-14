@@ -1,5 +1,5 @@
 ---
-title: "Known Locations"
+title: "Locations"
 date: 2025-07-01T00:00:00Z
 draft: false
 toc: true
