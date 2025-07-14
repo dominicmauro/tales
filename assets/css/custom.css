@@ -45,3 +45,17 @@ h1 {
 h2 {
     font-family: 'Montserrat', athelas, georgia, serif !important;
 }
+
+.avenir {
+    font-family: 'Montserrat', athelas, georgia, serif !important;
+}
+
+.avenir h2 {
+    font-family: 'JS Black', athelas, georgia, serif !important;
+    font-size: 4rem !important;
+    font-weight: 300;
+}
+
+.avenir h1 {
+    font-weight: 700;
+}

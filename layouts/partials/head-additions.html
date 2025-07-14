@@ -1,5 +1,7 @@
 {{ $customCSS := resources.Get "css/custom.css" }}
 {{ if $customCSS }}
   {{ $customCSS := $customCSS | minify }}
-  <link rel="stylesheet" href="{{ $customCSS.RelPermalink }}">
+  <!-- Load after other stylesheets -->
+  <link rel="stylesheet" href="{{ $customCSS.RelPermalink }}" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="{{ $customCSS.RelPermalink }}"></noscript>
 {{ end }}

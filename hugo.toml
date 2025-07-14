@@ -1,41 +1,33 @@
 baseURL = 'https://tales.fromthereach.es'
 languageCode = 'en-us'
-title = ''
+title = 'Beyond the Known Lands'
 theme = 'ananke'
 
 [params]
-env = 'production'
-title = "Tales from the Reaches"
-description = "Session notes for a westmarches campaign"
+title = "Beyond the Known Lands"
+description = "A West Marches campaign log"
 author = "Dom"
-defaultTheme = 'auto'
-ShowReadingTime = true
-ShowPostNavLinks = true
-ShowBreadCrumbs = true
-ShowWordCount = true
-UseHugoToc = true
 site_logo = "images/logo.webp"
 omit_header_text = true
 featured_image_class = "cover bg-bottom"
 
-
-[params.homeInfoParams]
-Title = "Tales from the Reaches"
-Content = "Session notes"
+[[menu.main]]
+  name = 'Locations'
+  url = '/locations/'
+  weight = 3
 
 [[menu.main]]
-identifier = 'sessions'
-name = 'All Sessions'
-url = '/posts/'
-weight = 10
+  identifier = 'sessions'
+  name = 'Episodes'
+  url = '/posts/'
+  weight = 10
 
 [[menu.main]]
-identifier = 'tags'
-name = 'Tags'
-url = '/tags/'
-weight = 20
+  identifier = 'tags'
+  name = 'Tags'
+  url = '/tags/'
+  weight = 20
 
 [taxonomies]
 tag = 'tags'
 category = 'categories'
-
