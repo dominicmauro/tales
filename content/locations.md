@@ -20,14 +20,22 @@ toc: true
 
 ### Lost Citadel of the Scarlet Minotaur
 
-- **Source**: Muggins Greenbottle, renowned tomb robber - "The Red Death will find you, one way or another."
+- - **Danger Level**: Risky
+- **Last Visited**: Session [3](/posts/session-003/)
+- **Status**: Partially Cleared
+- **Notable Features**: Bronze bull statues, animated armor traps
+- **Treasures Found**: Fist-sized emerald and three pearl diadems of ancient kings
 - **Description**: An ancient citadel of bull-worshipping warriors in an arid scrubland, now a dark maze of vaulted chambers and crumbling halls. Long ago, these warriors' cultish rituals culminated in their leader Minoros transforming into the immortal Scarlet Minotaur, who slaughtered his own warriors in a single night of mayhem. The citadel itself is home to long-forgotten treasures, but man-sized spiders and  bipedal bulls haunt its shadows while the blood-drenched minotaur stalks the labyrinthine halls.
 - **Potential Rewards**: Ancient magical weapons long-considered lost, piles of forgotten gems and gold, scrolls and magical items, diadems with pearls, and various treasures from fallen adventurers and warrior-mages.
 - **Warnings**: A savage beast drenched in blood patrols the citadel's halls. Those who die within the walls of the citadel may yet rise as undead to defend its treasures from looters. The citadel is rife with magical traps and territorial monsters.
 
 ### Tomb of the Serpent Kings
 
-- **Source**: Old Gareth the Map Seller
+- - **Danger Level**: Unsafe
+- **Last Visited**: Session [4](/posts/session-004/)
+- **Status**: Partially Cleared
+- **Notable Features**: False tomb, reanimated guards
+- **Treasures Found**: Silver Icon of a Scowling Snake-folk King
 - **Description**: A buried ruin of the snake-folk who once ruled these lands from their stone halls, partially uncovered by a recent landslide. Rival crawlers think this may be yet another false tomb built to fool grave robbers, but somewhere in the valley lies the true sepulcher where the serpent lords were entombed with their greatest treasures.
 - **Potential Rewards**: Ancient gold and jewels, snake-carved artifacts, possibly magical rings and weapons from a lost civilization.
 - **Warnings**: “Beware the sleepers in the stone,” the old maps warn. Legends speak of undead guardians, cunning traps, and creatures that turn men to stone with but a glance.
