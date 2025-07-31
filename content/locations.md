@@ -31,7 +31,7 @@ toc: true
 
 ### Tomb of the Serpent Kings
 
-- - **Danger Level**: Unsafe
+- **Danger Level**: Unsafe
 - **Last Visited**: Session [4](/posts/session-004/)
 - **Status**: Partially Cleared
 - **Notable Features**: False tomb, reanimated guards
