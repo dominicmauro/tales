@@ -18,8 +18,6 @@ toc: true
 - **Treasures Found**: Bastard Sword with Onyx hilt
 - **Remaining Mysteries**: What happens when the three hardened ooze chunks are placed upon The Alter in the room guarded by jellied skeletons?
 
-## Rumored…
-
 ### Lost Citadel of the Scarlet Minotaur
 
 - **Source**: Muggins Greenbottle, renowned tomb robber - "The Red Death will find you, one way or another."
@@ -33,6 +31,8 @@ toc: true
 - **Description**: A buried ruin of the snake-folk who once ruled these lands from their stone halls, partially uncovered by a recent landslide. Rival crawlers think this may be yet another false tomb built to fool grave robbers, but somewhere in the valley lies the true sepulcher where the serpent lords were entombed with their greatest treasures.
 - **Potential Rewards**: Ancient gold and jewels, snake-carved artifacts, possibly magical rings and weapons from a lost civilization.
 - **Warnings**: “Beware the sleepers in the stone,” the old maps warn. Legends speak of undead guardians, cunning traps, and creatures that turn men to stone with but a glance.
+
+## Rumored…
 
 ### The Ruins Below Bittermold Keep
 
