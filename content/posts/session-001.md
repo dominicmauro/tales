@@ -1,10 +1,8 @@
 +++
 date = '2025-07-01T15:51:40-04:00'
-title = 'Episode 1: A Trial Most Slimy'
+title = '1. A Trial Most Slimy'
 toc = true
 +++
-
-## The Kidnapping
 
 The cultists of Mugdulblub struck without warning, dragging innocent villagers from their homes to face a deadly gauntlet designed to test their worthiness. Those who survive will be granted the Slime Lord’s boon—those who fail will feed the darkness below.
 

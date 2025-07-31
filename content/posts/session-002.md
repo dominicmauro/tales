@@ -1,12 +1,12 @@
 +++
 date = '2025-07-08T18:14:16-04:00'
-title = 'Episode 2: A Dissolve to Remember'
+title = '2. A Dissolve to Remember'
 toc = true
 +++
 
-## The Descent Continues
-
 Our brave band of would-be crawlers pressed deeper into the **Trial of the Slime Lord**, their torches flickering against the oppressive darkness. The dungeon's collector's room yielded useful supplies—Denton claimed flint and steel along with a sturdy club, while Rogar secured some rope and Jirwyn found... a button of questionable utility.
+
+## The Descent Continues
 
 In **The Fetid Pool**, the heroes discovered their path blocked by fallen rocks. With grim determination, they began the backbreaking work of clearing the rubble. For 8 rounds they toiled, sweat mixing with the fetid air, only to have a sudden cave-in reset all their progress. Miraculously, no one was crushed.
 
