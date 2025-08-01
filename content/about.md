@@ -1,35 +1,32 @@
-—
-title: “About”
+---
+title: "About"
 date: 2025-07-01T00:00:00Z
-draft: true
+draft: false
 toc: true
-—
+---
 
 ## A West Marches Campaign
 
 ### The Pitch
 
-Beyond the crumbling walls of **Last Light Keep** lies the Shadowdark—a vast wilderness of forgotten ruins, deadly dungeons, and untold treasures. You are crawlers, fortune-seekers brave or foolish enough to venture where the light fails. Death lurks in every shadow, but so does glory. When your torches burn low and the darkness presses in, will you press forward for treasure or retreat to fight another day?
+Beyond the crumbling walls of **Halcyon Keep** lies The Reaches: a vast wilderness of forgotten ruins, deadly dungeons, and untold treasures. You are crawlers, fortune-seekers brave or foolish enough to venture into the **Shadowdark** where death lurks in every shadow, but so does glory. When your torches burn low and the darkness creeps in, will you press forward for treasure or retreat to fight another day?
 
 ### The Setup
 
-- **Open Table**: Drop in when you can play, no weekly commitment required
-- **Player-Driven**: You decide where to explore and what dangers to face
-- **Shared World**: Your discoveries become part of the living campaign
-- **Real Consequences**: Death is permanent, but new heroes always arise
+This is a West Marches style campaign. That means it's an **Open Table**: drop in when you can play, with no weekly commitment required. The story is **Player-Driven**: you will decide where to explore and what dangers to face. This is a **Shared World**: Your discoveries become part of the living campaign. There are **Final Consequences**: death is permanent (and nearly inevitable), but you will always be able to create a new character.
 
 ### The Rules
 
-We’re using **Shadowdark RPG**—fast, deadly, and focused on old-school adventure:
+We're playing **Shadowdark** - a fast, deadly, and old-school adventure RPG with:
 
-- **Quick Character Creation**: Roll 3d6 down the line, pick a class, and go
-- **Torch Timers**: Light sources burn in real-time—when they’re gone, you’re in trouble
-- **XP for Treasure**: Gold spent = experience gained, not monster kills
+- **Quick Character Creation**: Roll 3d6 down the line, pick a class, and you're ready to go in minutes
+- **Torch Timers**: Light sources burn in real-time. When they're gone, beware! You don't have darkvision, but the monsters do
+- **Loot-based Leveling**: Finding loot grants experience, slaying monsters does not
 - **Rulings Over Rules**: Common sense and creativity beat rule-lawyering
 
 ### The World
 
-**Last Light Keep** is your base—a fortified outpost on the edge of the known world. Beyond its walls:
+**Halcyon Keep** is your base of operations, a fortified outpost on the edge of the Known Lands. Beyond its walls:
 
 - **The Thornwood**: Dark forest filled with beastmen, ancient ruins, and worse
 - **The Sunken Marches**: Treacherous swamps hiding a drowned civilization
@@ -38,36 +35,28 @@ We’re using **Shadowdark RPG**—fast, deadly, and focused on old-school adven
 
 ### The Tone
 
-This is **gritty fantasy** where:
+This is a **grimdark fantasy** about dungeon crawling. 
 
 - Magic is dangerous and unpredictable
-- Monsters don’t fight fair
+- Monsters don't fight fair
 - Smart play beats good stats
 - Running away is often the wisest choice
 - Every treasure earned feels like a real victory
+- There is more dice-rolling than role-playing
 
 ### What You Need
 
-- **Dice**: Standard D&D set (d4, d6, d8, d10, d12, d20)
+- **A Browser**: We use Foundry, a web-based virtual tabletop
 - **Attitude**: Ready for challenge, clever thinking, and character death
-- **Time**: Sessions run 3-4 hours on [Day] at [Time] via Foundry VTT
-- **Communication**: Join our [Discord/Platform] for scheduling expeditions
+- **Time**: Sessions run 2-4 hours on the scheduled time
+- **Communication**: Join our Discord for scheduling a crawl
 
 ### How It Works
 
-1. **Gather a Party**: 3-5 players coordinate an expedition
-1. **Choose a Destination**: Pick rumors to investigate or areas to explore
-1. **Survive & Profit**: Delve into danger, grab treasure, get out alive
-1. **Share Intel**: Report discoveries back at Last Light Keep
-1. **Spend Gold**: Carouse for XP and prepare for the next venture
+1. **Gather a Party**: Find 3-5 players for an expedition beyond the keep's walls
+2. **Choose a Destination**: Pick rumors to investigate or known dungeons to explore
+3. **Survive & Profit**: Delve into danger, grab treasure, and get out alive
+4. **Share Intel**: Report discoveries to the other crawlers back at Halcyon Keep
+5. **Carouse**: Throw a big party for bonus XP, and prepare for the next crawl
 
-### Why Play?
-
-- **Low Commitment**: Play when your schedule allows
-- **High Stakes**: Every decision matters when death is one bad roll away
-- **Emergent Story**: Your actions shape the world and create the narrative
-- **Pure Adventure**: Focus on exploration, problem-solving, and treasure hunting
-
-*“In the Shadowdark, fortune favors the bold… but the darkness takes them all the same.”*
-
-**Ready to test your luck? Contact [Your Name] at [Contact Info]**
+**Ready to test your luck?**
