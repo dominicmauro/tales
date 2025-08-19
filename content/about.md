@@ -19,10 +19,10 @@ This is a West Marches style campaign. That means it's an **Open Table**: drop i
 
 We're playing **Shadowdark** - a fast, deadly, and old-school adventure RPG with:
 
-- **Quick Character Creation**: Roll 3d6 down the line, pick a class, and you're ready to go in minutes
-- **Torch Timers**: Light sources burn in real-time. When they're gone, beware! You don't have darkvision, but the monsters do
-- **Loot-based Leveling**: Finding loot grants experience, slaying monsters does not
-- **Rulings Over Rules**: Common sense and creativity beat rule-lawyering
+- **Quick Character Creation**: Roll 3d6 down the line, pick a class, and you're ready to go in minutes.
+- **Torch Timers**: Light sources burn in real-time. When they're gone, beware! You don't have darkvision, but the monsters do.
+- **Loot-based Leveling**: Finding loot grants experience, slaying monsters does not.
+- **Rulings Over Rules**: Common sense and creativity beat rule-lawyering.
 
 ### The World
 
@@ -47,9 +47,9 @@ This is a **grimdark fantasy** about dungeon crawling.
 ### What You Need
 
 - **A Browser**: We use Foundry, a web-based virtual tabletop
-- **Attitude**: Ready for challenge, clever thinking, and character death
+- **Attitude**: Ready for challenge, clever thinking, and your character's death
 - **Time**: Sessions run 2-4 hours on the scheduled time
-- **Communication**: Join our Discord for scheduling a crawl
+- **Communication**: [Join our Discord](https://discord.gg/QUjus6g926) to join or schedule a crawl
 
 ### How It Works
 
