@@ -5,14 +5,14 @@ draft: false
 toc: true
 ---
 
-*Last updated: July 13, 2025*
+*Last updated: August 19, 2025*
 
 ## Explored…
 
 ### Trial of the Slime Lord
 
 - **Danger Level**: Gauntlet
-- **Last Visited**: Session [1](/posts/session-001/), [2](/posts/session-002)
+- **Last Visited**: Session [1](/posts/session-001/), [2](/posts/session-002), [6](/posts/session-006), 
 - **Status**: Partially Cleared
 - **Notable Features**: Necrotic gelatinous cube, dripping caves, cave-ins
 - **Treasures Found**: Bastard Sword with Onyx hilt
@@ -20,8 +20,8 @@ toc: true
 
 ### Lost Citadel of the Scarlet Minotaur
 
-- - **Danger Level**: Risky
-- **Last Visited**: Session [3](/posts/session-003/)
+- **Danger Level**: Risky
+- **Last Visited**: Session [5](/posts/session-005/)
 - **Status**: Partially Cleared
 - **Notable Features**: Bronze bull statues, animated armor traps
 - **Treasures Found**: Fist-sized emerald and three pearl diadems of ancient kings
