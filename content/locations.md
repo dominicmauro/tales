@@ -7,7 +7,15 @@ toc: true
 
 *Last updated: August 19, 2025*
 
-## Explored…
+## Regions…
+
+- **Wraithwater Fjord**: A haunting body of dark water where no fish swim and no birds call. Local fishermen avoid it, whispering of shapes that move beneath the surface on moonless nights. The water itself appears black as pitch, reflecting neither stars nor moon. Strange currents flow in patterns that make no sense, and sometimes objects thrown into the water simply vanish without a splash. The few who've sailed its waters report hearing voices calling from the depths.
+- **The Thornwood**: Dense forest of twisted trees and thorny undergrowth where daylight barely penetrates the canopy. Somewhere within its depths lies the Lost Citadel of the Scarlet Minotaur, abandoned for over a century. The trees themselves seem malevolent, their branches reaching out to snag travelers and their roots shifting to trip the unwary. Those who enter report finding carved stone markers in an unknown script, leading deeper into the forest's heart.
+- **Ironspire Peaks**: Jagged mountains piercing the southern sky like the spine of some primordial beast. A recent earthquake has revealed the long-sealed Tomb of the Serpent Kings. The mountains echo with war-drums as goblin tribes clash over territory and ancient treasures. Each tribe bears different markings—bone-white paint, crimson tattoos, or ritual scarification—and they know secret paths through the treacherous peaks. Travelers might broker safe passage with one tribe, only to face the blades of their enemies higher up.
+- **Witchstone Highlands**: Rolling hills of purple stone and strange mists that shift color with the phases of the moon. The Ruins of Bittermold Keep crown the highest hill, its broken towers visible for miles like grasping fingers. The witchstone itself is said to hold magical properties, growing warm to the touch near sources of arcane power. Local shepherds report that their flocks refuse to graze certain areas, and that compasses spin wildly when crossing the highlands. At dawn and dusk, the ruins cast shadows that don't match their actual shape.
+- **The Blackmire**: A treacherous swampland where solid ground is scarce and the air hangs thick with the weight of ancient sorrow. Deep within lies the Bottomless Tombs, a pit that has swallowed countless explorers and their screams. On foggy nights, the ghostly sounds of battle echo across the water—clashing steel, dying horses, and the cries of fallen warriors. Spectral lights dance between the dead trees, leading travelers astray or sometimes warning them of quicksand and other dangers. The spirits here are restless, some seeking to complete their final battle, others simply hungry for the warmth of living flesh.
+
+## Dungeons explored…
 
 ### Trial of the Slime Lord
 
@@ -40,7 +48,7 @@ toc: true
 - **Potential Rewards**: Ancient gold and jewels, snake-carved artifacts, possibly magical rings and weapons from a lost civilization.
 - **Warnings**: “Beware the sleepers in the stone,” the old maps warn. Legends speak of undead guardians, cunning traps, and creatures that turn men to stone with but a glance.
 
-## Rumored…
+## Dungeons Rumored…
 
 ### The Ruins Below Bittermold Keep
 
