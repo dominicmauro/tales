@@ -5,11 +5,11 @@ draft: false
 toc: true
 ---
 
-## A West Marches Campaign
+*A West Marches Campaign*
 
 ### The Pitch
 
-Beyond the crumbling walls of **Halcyon Keep** lies The Reaches: a vast wilderness of forgotten ruins, deadly dungeons, and untold treasures. You are crawlers, fortune-seekers brave or foolish enough to venture into the **Shadowdark** where death lurks in every shadow, but so does glory. When your torches burn low and the darkness creeps in, will you press forward for treasure or retreat to fight another day?
+Beyond the crumbling walls of **Halcyon Keep** lies the Southern Reaches: a vast wilderness of forgotten ruins, deadly dungeons, and untold treasures. You are **Crawlers**, fortune-seekers brave or foolish enough to venture into the **Shadowdark** where death lurks in every shadow, but so does glory. When your torches burn low and the darkness creeps in, will you press forward for treasure or retreat to fight another day?
 
 ### The Setup
 
