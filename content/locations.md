@@ -5,7 +5,7 @@ draft: false
 toc: true
 ---
 
-*Last updated: August 19, 2025*
+*Last updated: September 14, 2025*
 
 ## Regions…
 
@@ -21,7 +21,7 @@ toc: true
 
 - **Danger Level**: Gauntlet
 - **Last Visited**: Session [1](/posts/session-001/), [2](/posts/session-002), [6](/posts/session-006), 
-- **Status**: Partially Cleared
+- **Status**: Fully Cleared
 - **Notable Features**: Necrotic gelatinous cube, dripping caves, cave-ins
 - **Treasures Found**: Bastard Sword with Onyx hilt
 - **Remaining Mysteries**: What happens when the three hardened ooze chunks are placed upon The Alter in the room guarded by jellied skeletons?
@@ -29,8 +29,8 @@ toc: true
 ### Lost Citadel of the Scarlet Minotaur
 
 - **Danger Level**: Risky
-- **Last Visited**: Session [5](/posts/session-005/)
-- **Status**: Partially Cleared
+- **Last Visited**: Session [9](/posts/session-009/)
+- **Status**: Mostly Cleared
 - **Notable Features**: Bronze bull statues, animated armor traps
 - **Treasures Found**: Fist-sized emerald and three pearl diadems of ancient kings
 - **Description**: An ancient citadel of bull-worshipping warriors in an arid scrubland, now a dark maze of vaulted chambers and crumbling halls. Long ago, these warriors' cultish rituals culminated in their leader Minoros transforming into the immortal Scarlet Minotaur, who slaughtered his own warriors in a single night of mayhem. The citadel itself is home to long-forgotten treasures, but man-sized spiders and  bipedal bulls haunt its shadows while the blood-drenched minotaur stalks the labyrinthine halls.
@@ -56,3 +56,17 @@ toc: true
 - **Description**: The ruins of Bittermold Keep sit atop a hill, its stones slowly melting into the earth from some horrible curse. The wealthy Bittermold family once lived there, but their line suddenly died out and the whole place fell into ruin. Woodsmen recently spotted several short, cloaked figures scurrying into the keep, and hunters have heard ululating cries echoing from within the ruins.
 - **Potential Rewards**: The lord of Bittermold Keep was said to possess a magic ruby that let him walk through fire unscathed - a gift from a demon. Ancient family treasures, mysterious meteorite fragments, and various magical trinkets are rumored to lie within the dissolving halls.
 - **Warnings**: This curse also causes strange things to seep from the walls. Strange creatures are said to inhabit catacombs beneath the ruins, warring amongst themselves. Fishermen report catching four-legged catfish in nearby streams, and the very architecture seems to be liquefying from some primordial influence lurking beneath.
+
+### Beneath the Iron Abbey
+
+- **Source**: The Prior of the Iron Brotherhood, Bartholomeo, has issued a call for adventurers to delve the long-abandoned tomb beneath the brotherhood's ancient abbey and retrieve the lost treasures of the Knights' Reliquary.
+- **Description**: The Iron Brotherhood is an order of knights devoted to St. Terragnis. For centuries, their abbey was a bastion of light in the chaos of the Southern Reaches, but it has fallen to ruin in recent generations. Now, a sect of the Brotherhood is reclaiming the site; their work crews believe they've located the mythical tomb of the Brotherhood's founder, Sir Gottfried.
+- **Potential Rewards**: Prior Bartholomeo has issued a 1,000 GP bounty for the return of the reliquary and its contents. The rest of the tomb contains treasures from an ancient order of paladins.
+- **Warnings**: Work crews and amateur explorers have not returned from the depths below. Be on the lookout for deadly traps and deathless abominations.
+
+### Crypt of the Dusk Queen
+
+- **Source**: The Dark Wolves, a rival group of crawlers, cornered the ghost of a court musician in some Blackmire ruins who sang them a funeral dirge containing cryptic directions to his queen's tomb.
+- **Description**: Beneath a colossal tree of golden leaves lies a maze of root-choked catacombs. It is in these catacombs that the Dusk Queen of legend is entombed with her royal treasures. However, deathless guardians and devious tricks await any who would intrude on her sleep…
+- **Potential Rewards**: Ancient Elvish relics said to glow with inner light. Royal treasures befitting a legendary fey queen. Magical scrolls containing powerful spells. Jewelry and precious metals from a bygone age.
+- **Warnings**: The Dusk Queen's sworn war-maidens still patrol the tomb; these restless dead do not suffer grave robbers lightly. Deadly traps protect the most valuable treasures. The tomb's layout shifts and changes, sealing off passages without warning. Beware false treasures that lure greedy crawlers to their doom.
