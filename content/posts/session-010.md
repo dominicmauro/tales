@@ -1,5 +1,5 @@
 +++
-date = '2025-09-28T21:56:25-04:00'
+date = '2025-09-25T21:56:25-04:00'
 title = '10. Return of the Revenge of the Return to the Lost Citadel'
 toc = true
 +++
