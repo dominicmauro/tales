@@ -10,7 +10,7 @@ author = "Dom"
 site_logo = "images/logo.webp"
 omit_header_text = true
 featured_image_class = "cover bg-bottom"
-
+ 
 [[menu.main]]
   name = 'Locations'
   url = '/locations/'
