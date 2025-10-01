@@ -8,7 +8,7 @@ toc = true
 
 ## New Discoveries
 
-Their methodical exploration led them to the **Broken Bull Statue** chamber for the first time. Here, **Fiora** claimed a shattered emerald worth 20 gold pieces while **Clee** recovered a silver locket containing a painting of a red-haired woman. The chamber told its own grim story—a young adventurer in chainmail and helm, crushed between the bronze bull's head and the cracked wall, testament to the statue's deadly charge. 
+Their methodical exploration led them to the **Broken Bull Statue** chamber for the first time. Here, **Fiora** claimed a shattered emerald worth 20 gold pieces while **Clee** recovered a silver locket containing a painting of a red-haired woman. The chamber told its own grim story—a young adventurer in chainmail and helm, crushed between the bronze bull's head and the cracked wall, testament to the magical statue's deadly charge. 
 
 In the **Offering Bowls** chamber, they made offerings of gold, a bastard sword, and the recovered locket to the ancient bowls. The old magic responded, granting them a luck token—divine favor that would prove crucial in the trials ahead.
 
