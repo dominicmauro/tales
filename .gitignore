@@ -18,6 +18,7 @@ Thumbs.db
 *.swp
 *.swo
 *~
+.nova/
 
 # Local environment
 .env
