@@ -1,6 +1,10 @@
 +++
 date = '2025-10-22T21:59:48-04:00'
+<<<<<<< HEAD
 title = '13. Welcome to Bittermold'
+=======
+title = 'Session 013'
+>>>>>>> main
 toc = true
 +++
 
