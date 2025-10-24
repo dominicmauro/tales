@@ -1,6 +1,6 @@
 +++
 date = '2025-10-22T21:59:48-04:00'
-title = '12. Welcome to Bittermold'
+title = '13. Welcome to Bittermold'
 toc = true
 +++
 
