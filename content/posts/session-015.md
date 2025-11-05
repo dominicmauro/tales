@@ -4,9 +4,7 @@ title = '15. The Dissolution is Nigh!'
 toc = true
 +++
 
-Isolde (Dwarf Ranger), Clee Parr (Human Bard), Plum Pudding (Halfling Wizard), Fiora (Elf Thief)
-
-Four brave crawlers returned to the Hideous Halls beneath Bittermold Keep, armed with knowledge from previous expeditions of the magical compass that could find anything. What they didn't know was that this session would bring them face-to-face with an elder god
+Four brave crawlers: Isolde (Dwarf Ranger), Clee Parr (Human Bard), Plum Pudding (Halfling Wizard), and Fiora (Elf Thief) returned to the Hideous Halls beneath Bittermold Keep, armed with knowledge from previous expeditions of the magical compass that could find anything. What they didn't know was that this session would bring them face-to-face with an elder god
 
 The party gathered in the Entry Hall, carefully avoiding the acid quicksand trap in the Memorial Chamber. They made a beeline toward the compass rose chamber, and **Isolde** asked it the fateful question: "Where is the most valuable treasure in this dungeon?"
 
