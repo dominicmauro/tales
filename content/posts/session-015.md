@@ -123,5 +123,3 @@ And that's where we left our heroes—trapped between an elder god, his fanatic 
 *The Hideous Halls have never felt more aptly named. Four crawlers face their greatest challenge yet: escaping alive from the domain of an elder god. Will they make it out? Or will they join the thousands of teeth driven into the Tooth Pillar?*
 
 *Find out next week...*
-
-
