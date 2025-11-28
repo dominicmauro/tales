@@ -1,6 +1,6 @@
 +++
 date = '2025-11-28T16:12:12-05:00'
-title = 'Session 017'
+title = '17. Against the Crimson Hand'
 toc = true
 +++
 
